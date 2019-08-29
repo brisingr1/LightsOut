@@ -1,2 +1,3 @@
-# LightsOut
- GUI HW: Hello GitHub
+Hyhway Therrell
+
+https://github.com/brisingr1/LightsOut
